@@ -1,4 +1,4 @@
-# CuroAI Library
+# CuroAI Library (GPT with long-term memory)
 
 CuroAI is a JavaScript library designed for interfacing with the Curo AI system, which leverages OpenAI's powerful GPT-3.5 model for chat completions and Pinecone for efficient indexing and retrieval of chat history. This library simplifies the process of creating conversational agents that can remember and respond to previous interactions intelligently.
 
