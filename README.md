@@ -8,15 +8,15 @@ This library tries to mimic a memory between the system and user beyond a conver
 To use CuroAI in your JavaScript project, you can install it using npm or yarn:
 
 ```shell
-npm install curoai
+npm install @curostrides/curoai
 # or
-yarn add curoai
+yarn add @curostrides/curoai
 ```
 ## Initialization
 1. Import the library into your project:
 
 ```javascript
-import CuroAI from 'curoai';
+import CuroAI from '@curostrides/curoai';
 ```
 2. Create an instance of the CuroAI client by providing your OpenAI API Key and Pinecone API Key:
 ```javascript
